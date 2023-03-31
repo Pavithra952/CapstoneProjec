@@ -1,0 +1,4 @@
+DEBUG:root:Hello from debug
+INFO:root:hello from warning
+ERROR:root:hello from error
+CRITICAL:root:hello from critical
